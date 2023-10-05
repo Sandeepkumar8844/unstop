@@ -1,0 +1,271 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-color: rgb(235, 230, 230);
+
+}
+
+aside {
+    margin-top: auto;
+    padding: 2%;
+    width: 12vw;
+    height: 150vh;
+    justify-content: center;
+    background-color: white;
+    margin-top: -102vh;
+
+
+}
+
+.aside-bar {
+    justify-content: space-evenly;
+    width: 10vw;
+    height: 50vh;
+    margin-top: 7.8vh;
+
+
+}
+
+.aside-bar div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 20vh;
+    justify-content: center;
+    background-color: white;
+    font-weight: 100;
+
+
+
+
+}
+
+
+.adm {
+    font-size: small;
+    padding: 1% 2%;
+    border-radius: 30%;
+    color: red;
+    background-color: rgb(241, 150, 150);
+}
+
+.aside-bar div:hover {
+
+
+    border: 1px solid rgb(125, 125, 237);
+    border-radius: 5%;
+    color: rgb(32, 32, 225);
+    background-image: linear-gradient(white, rgb(97, 97, 240), white);
+
+
+}
+
+.dash-aside3 {
+    border-bottom: 1px solid gray;
+
+}
+
+header {
+    width: 79%;
+    background-color: white;
+    margin-left: auto;
+    padding: 2%;
+    border-bottom: 2px solid gray;
+}
+
+a {
+    text-decoration: none;
+
+    color: black;
+    font-size: 20px;
+    padding: 29px 15px;
+}
+
+a:hover {
+    padding: 29px 15px;
+    border-bottom: 3px solid blue;
+    color: blue;
+
+
+}
+
+main {
+    width: 83%;
+    height: 600px;
+    margin-left: auto;
+    background-color: white;
+}
+
+main p {
+    margin-left: 1.5vw;
+    font-size: 22px;
+    padding: 1%;
+
+
+}
+
+.div-count div {
+
+
+    height: 18vh;
+
+    border: 1px solid rgb(163, 162, 162);
+
+
+
+}
+
+
+.div-count {
+    margin-top: 2vh;
+    display: flex;
+    margin-left: 2vw;
+
+}
+
+.div-count span {
+    margin-left: 1vw;
+    font-size: 1.3vw;
+
+}
+
+.div-count i {
+    font-size: 1.4vw;
+    margin-left: 1.3vw;
+
+}
+
+#pur {
+    color: rgb(84, 4, 84);
+    border-radius: 15%;
+    padding: 8px 8px;
+    background-color: rgb(181, 149, 210);
+}
+
+#glo {
+    color: red;
+    border-radius: 15%;
+    padding: 8px 8px;
+    background-color: rgb(240, 148, 148);
+
+}
+
+#lin {
+    color: blue;
+    border-radius: 15%;
+    padding: 8px 8px;
+    background-color: rgb(151, 135, 232);
+
+}
+
+.num {
+    font-size: 2vw;
+    font-weight: 500;
+    display: inline;
+    margin-left: 1.4vw;
+    margin-top: 1.2vh;
+}
+
+#NUMBER {
+
+    justify-content: center;
+    margin-left: 3.3vw;
+    margin-top: -5VH;
+    border: none;
+}
+
+.num11 {
+    font-size: 5px;
+}
+
+.num89 {
+    color: green;
+
+}
+
+.wd {
+    margin-left: 500px;
+}
+
+.total-ass {
+    width: 12vw;
+}
+
+.candidates {
+    width: 28vw;
+}
+
+.candidates-source {
+    width: 27vw;
+}
+
+.total-purp {
+    width: 11vw;
+}
+
+.my-asses2 div {
+
+    border: 2px solid gray;
+    width: 22vw;
+    height: 25vh;
+    border-radius: 5%;
+}
+
+.my-asses2 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 2vw;
+    margin-right: 2vw;
+
+}
+
+.MY-ASS5 {
+    background-color: rgb(215, 213, 213);
+}
+
+.MY-ASS5 i {
+    background-color: white;
+    margin-top: 2.2vh;
+    font-size: 2.5vw;
+    color: blue;
+    border: 1px solid rgb(248, 245, 245);
+    padding: 8px 10px;
+    border-radius: 50%;
+}
+
+.MY-ASS5 span{
+    margin-top:-6%h;
+}
+
+#math{
+    margin-top: 5vh;
+    margin-left: 2vw;
+    font-size: 1.5vw;
+    
+    padding: 8px 10px;
+    color: blueviolet;
+    background-color:rgb(181, 149, 210);
+    border-radius: 13%;
+    
+}
+
+#matth{
+    margin-top: 5vh;
+    margin-left: 2vw;
+    font-size: 1.5vw;
+    
+    padding: 8px 10px;
+    color: blueviolet;
+    background-color:rgb(181, 149, 210);
+    border-radius: 13%;
+
+}
+
+.mattth span{
+    margin-left: 2vw;
+
+}
+
